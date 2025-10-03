@@ -1,4 +1,4 @@
-👗 Online Clothing Performance Dashboard  
+# 👗 Online Clothing Performance Dashboard  
 
 This repository contains an **Excel-based dashboard** for analyzing the performance of online clothing sales across different channels, states, and product categories.  
 
