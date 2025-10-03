@@ -20,13 +20,6 @@ This repository contains an **Excel-based dashboard** for analyzing the performa
 
 ---
 
-## 📂 Repository Structure  
-├── Online_Clothing_Dashboard.xlsx # Main Excel Dashboard
-├── images/
-│ └── dashboard_preview.png # Screenshot of the dashboard
-└── README.md # Project description
----
-
 ## 🖼️ Dashboard Preview   
 <img width="1920" height="1020" alt="Screenshot 2025-10-03 130949" src="https://github.com/user-attachments/assets/f5d0db1c-46f1-410d-8c18-29eba8e0ea25" />
 
