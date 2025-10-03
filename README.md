@@ -21,3 +21,19 @@ This repository contains an **Excel-based dashboard** for analyzing the performa
 ---
 
 ## 📂 Repository Structure  
+
+---
+
+## 🖼️ Dashboard Preview  
+![Dashboard Screenshot](images/dashboard_preview.png)  
+
+---
+
+## 🛠️ Tools Used  
+- **Microsoft Excel** (Pivot Tables, Charts, Slicers, Power Query)  
+- **Data Visualization techniques**  
+
+---
+
+## 📥 How to Use  
+1. Download the file:  
